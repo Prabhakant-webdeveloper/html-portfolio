@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Resume-Prabhakant Pandey</title>
+    </head>
+
+    <body>
+        <h2>Prabhakant Pandey</h2>
+        <img src="./Images/photo.jpeg" width="100" />
+        <h3>Objective:</h3>
+        <p>To work with an organization where I can utilize my skill, knowledge, expertise & strategies to meet organizational productivity & profitability & make good relationships through my dedicated efforts and hard work.</p>
+        <hr />
+        <h3>Educational Qualification:</h3>
+        <p>M.Tech (2012-14)--->>77.30%</p>
+        <p>B.Tech (2007-11)---->>70.62%</p>
+        <hr />
+        <h3>Work Experience:7+ yrs.</h3>
+        <ul>
+            <h4><li>ESDS Software Solution Limited</h4>
+            <p>Dec 2022 - Present</p>
+                    <ul>
+                        <li>Level-2 Support Engineer(capable of assimilating product knowledge, research, and testing to resolve complex situations and provide a comprehensive solution to permanently fix the issue).</li>
+                        <li>Assisting customer teams and other colleagues to comprehend how customers can achieve desired outcomes.</li>
+                        <li>Update incident tickets and resolve technical issues through debugging, research, and investigation</li>
+                        <li>Ensure incident tickets are updated with progress and resolution details in a timely manner.</li>
+                        <li>Optimize OS, applications, and databases.</li>
+                        <li>Automate tasks via PowerShell scripting.</li>
+                        <li>Conduct server hardening, compliance, and security patching.</li>
+                        <li>Manage LDAP, Active Directory, MFA, and logs.</li>
+                        <li>Make certain that all calls are logged in the ticketing system & every activity is timely updated.</li>
+                        <li>Ensure SLA obligations with internal and external stakeholders are observed and met; escalate as necessary using judgment and discretion.</li>
+                        <li>Actively contribute to ongoing process improvement, problem resolution & workflow improvements.</li>
+                    </ul>
+                </li>
+                <br />
+            <h4><li>Voltech HR Services Pvt. Ltd.</h4>
+            <p>Jun 2021 - Dec 2022</p>
+                    <ul>
+                        <li>Design, implement, and maintain the communication infrastructure (RF, GPRS/3G/4G/NB-IoT) for smart meters.</li>
+                        <li>Ensure reliable data transmission between smart meters and the Head-End System (HES).</li>
+                        <li>Monitor and optimize signal strength and resolve network-related issues in the field.</li>
+                        <li>Coordinate installation and commissioning of smart meters, Data Concentrator Units (DCUs), and modems.</li>
+                        <li>Configure and integrate communication modules with meters and Back-end systems.</li>
+                        <li>Conduct regular site visits for troubleshooting communication failures or meter reading issues.</li>
+                        <li>Diagnose and resolve connectivity issues between meters, DCUs, and Modems.</li>
+                        <li>Support cross-functional teams in project deployment, testing, and commissioning.</li>
+                        <li>Ensure seamless and secure data flow from smart meters to HES and MDMS (Meter Data Management System).</li>
+                        <li>Maintain logs, documentation, and reports on communication performance and faults.</li>
+                        <li>Train ground-level staff and technicians on communication equipment installation and maintenance.</li>
+                        <li>Supervise teams during large-scale deployments.</li>             
+                    </ul>
+                </li>
+            <h4><li>Ramayan Infra Construction Pvt. Ltd.</h4>
+            <p>Jun 2019 - Feb 2020</p>
+                    <ul>    
+                        <li>Track material deliveries (antennas, RRUs, cables, mounts) and allocate resources for installation.</li>
+                        <li>Liaisening and cordination with the Jio NOC or backend integration team, RF Team and O&M team.</li>
+                        <li>Ensure site readiness: access, power availability, and safety compliance.</li>
+                        <li>Monitor physical work progress through site updates and photos.</li>
+                        <li>Ensure teams follow Jio quality standards (correct tilt, azimuth, alignment, cable routing).</li>
+                        <li>Maintain project tracker sheets for each site.</li>
+                        <li>Submit Daily Progress Reports (DPRs), Material Reconciliation Reports, and Work Completion Reports.</li>
+                        <li>Ensure proper documentation for PAT (Pre-acceptance testing) and FAT (Final acceptance testing).</li>
+                        <li>Quickly escalate and resolve issues (logistics delays, site access, integration faults).</li>
+                        <li>Support field teams during sector integration and initial testing.</li>
+                        <li>Ensure smooth handover of sites to the O&M or NOC team after completion.</li>
+                    </ul>
+                </li>
+            <h4><li>VRK Power Pvt. Ltd.</h4>
+            <p>Oct 2018 - May 2019</p>
+                    <ul>
+                        <li>Coordinated end-to-end supply chain operations for telecom materials (antennas, RRUs, RF cables, mounts) across multiple Jio project sites.</li>
+                        <li>Maintained and updated daily MIS reports on material dispatch, site delivery status, and stock movement using Excel and SAP MM.</li>
+                        <li>Managed material planning and allocation in coordination with regional warehouses and logistics partners, ensuring on-time deliveries to minimize project delays.</li>
+                        <li>Liaised with field engineers, warehouse teams, and vendors for smooth flow of materials and timely closure of MRNs (Material Receipt Notes) and DCs.</li>
+                        <li>Handled SAP-based GRN (Goods Receipt Note) entries, PO/DO processing, and reconciliation of physical vs system stock.</li>
+                        <li>Contributed to project efficiency by streamlining reporting and enhancing visibility across the supply chain.</li>           
+                    </ul>
+                </li>
+            <h4>SI-CRPF (Govt. of India)</h4>
+            <p>Jul 2015 - Oct 2016</p>        
+        </ul>
+        <hr />
+        <h3>Skills:</h3>
+        <ul>
+            <li>Exposure to virtualization and cloud platforms.</li>
+            <li>Exposure to Linux and Windows servers domain knowledge and troubleshooting skills, scripting, debug.</li>
+            <li>Understanding the DR/BCP for different environments. Exposure to DR Drills.</li>
+            <li>Exposure to migration of DC</li>
+            <li>Exposure to fixing the identified vulnerabilities in VAPT.</li>
+            <li>Understanding of incident SLA management </li>
+            <li>Performance tuning of OS, Application, Databases and Server security hardening and system compliance.</li>
+            <li>Understanding of High Availability and Redundancies for different components.</li>           
+            <li>Understanding of TCP/UDP, packet handling, and sessions.</li>
+            <li>Well versed with Mail servers, DNS, Apache, Tomcat, Html, etc.</li>
+            <li>Knowledge of RF Mesh, GPRS, NB-IoT, LTE, and WAN/LAN networks.</li>          
+            <li>Experience with network tools (ping, traceroute, signal testing).</li>
+            <li>Strong coordination and multitasking skills.</li>
+            <li>Good communication and team-handling abilities.</li>
+            <li>Understanding of logistics and warehouse processes.</li>                              
+        </ul>
+        <hr />
+       <h3>Awards and Certifications:</h3>
+       <Ul>
+            <li>NIELIT:Linux Server Administration Certificate</li>
+            <li>NIELIT:Windows Server Administration Certificate</li>
+            <li>NIELIT:Course in Virtualization certificate</li>
+            <li>NIELIT:Certificate Course in Cyber Security</li>
+       </Ul>
+       <hr />
+       <h3>Other</h3>
+       <ul>
+       <li><a href="./Public/My Hobbies.html">My Hobbies</a></li>
+       <li><a href="./Public/Contact.html">Contact Me</a></li>
+       </ul>
+    <footer>
+        ©Prabhakant Pandey. All rights reserved.
+    </footer>
+    </body>
+</html>
